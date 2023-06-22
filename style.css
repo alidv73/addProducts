@@ -1,0 +1,30 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#form{
+  margin: 2em;
+  padding: 3em;
+  box-shadow: 1px 2px 3px 2px #666;
+
+  
+  
+}
+input{
+  border-radius: 3px;
+  
+}
+
+
+li{
+  box-shadow: 1px 2px 3px 2px #666;
+  padding: 5em;
+  font-size: large;
+  border-radius: 5px;
+  
+
+}
